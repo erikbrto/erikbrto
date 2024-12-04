@@ -21,8 +21,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/erikbrto/erikbrto/output/snake.svg" alt="Snake animation" />
-
-###
